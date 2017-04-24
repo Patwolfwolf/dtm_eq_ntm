@@ -1,0 +1,4 @@
+incr -6
+incr +3;incr -1
+incr -1;incr -3;incr +1
+jump -1;jump -2
